@@ -3,12 +3,11 @@
 
 body {
   font-family: "Segoe UI", sans-serif;
-  line-height:1.6;
-  background:#fff5f7;
-  color:#5a3d46;
+  line-height: 1.6;
+  background: url("FSS.jpg") no-repeat center center fixed;
+  background-size: cover;
+  color: #5a3d46;
 }
-
-
 header {
   display:flex;
   justify-content:space-between;

@@ -4,7 +4,8 @@
 body {
   font-family: "Segoe UI", sans-serif;
   line-height: 1.6;
-  background: #fff5f7;
+  background: url("FSS.jpg") no-repeat center center fixed;
+  background-size: cover;
   color: #5a3d46;
 }
 

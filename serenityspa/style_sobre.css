@@ -1,7 +1,13 @@
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
 
-body { font-family: "Segoe UI", sans-serif; line-height: 1.6; background: #fff5f7; color: #5a3d46; }
+body {
+  font-family: "Segoe UI", sans-serif;
+  line-height: 1.6;
+  background: url("FSS.jpg") no-repeat center center fixed;
+  background-size: cover;
+  color: #5a3d46;
+}
 
 
 header {
